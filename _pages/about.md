@@ -24,7 +24,7 @@ B.S. in Information Science, **Zhejiang University**, 2019
 
 12/15/2020: graduated from CMU.
 
-# Friendly link
+# Links
 
 Here is some interesting friends' webs, feel free to check:
 
