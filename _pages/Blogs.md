@@ -3,7 +3,7 @@ layout: archive
 title: "Blogs"
 permalink: /Blogs/
 author_profile: true
-typora-root-url: ..\images
+typora-root-url: /images/
 ---
 
 # 2020
