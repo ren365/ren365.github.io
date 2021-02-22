@@ -3,6 +3,7 @@ layout: archive
 title: "Blogs"
 permalink: /Blogs/
 author_profile: true
+typora-root-url: ..\images
 ---
 
 # 2020
@@ -17,13 +18,15 @@ author_profile: true
 
 
 
-# 2017
+# 2016 - 2017
 
 
 
-# 2016
+# 2015 - 2016
 
+I was fortuned enough to join the ZJU CADC Team! Some interesting graphs are shown bellow.
 
-
-# 2015
+| <img src="CADC.jpeg" alt="0.5" style="zoom:50%;" /> | <img src="CADC2.jpg" alt="0.5" style="zoom:12%;" /> |
+| --------------------------------------------------- | --------------------------------------------------- |
+| add others                                          |                                                     |
 
