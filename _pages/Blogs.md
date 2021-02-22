@@ -26,7 +26,7 @@ typora-root-url: /images/
 
 I was fortuned enough to join the ZJU CADC Team! Some interesting graphs are shown bellow.
 
-| <img src="../images/CADC.jpeg" alt="0.5" style="zoom:50%;" /> | <img src="../images/CADC2.jpg" alt="0.5" style="zoom:12%;" /> |
+| <img src="../images/CADC.jpeg" alt="0.5" style="zoom:50%;" /> | <img src="../images/CADC2.JPG" alt="0.5" style="zoom:12%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | add others                                                   |                                                              |
 
