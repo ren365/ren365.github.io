@@ -8,19 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zehao Wang. I received my master’s degree in Electrical & Computer Engineering from Carnegie Mellon University and my bachelor’s degree in Information Science (actually it is telecommunication science) from Zhejiang University, China.
+I'm Zehao Wang, a fourth-year Ph.D. student at Electrical and Computer Engineering department in Duke University. I received my master’s degree in Electrical & Computer Engineering from Carnegie Mellon University and my bachelor’s degree in Information Engineering from Zhejiang University, China. I received several top-scored papers in OFC, one best paper in ECOC'24, and was selected as Corning outstanding student finallist in OFC'24. I collaborate with [Duke Quantum Center](link), [ConnectCentre](link), [NEC Lab America](link), and [NTT](link).
 
-I have broad research interest among machine learning, autonomous driving, Internet of Things and beyond-CMOS computing. 
-
-My past research interest (in my bachelor) falls in metamaterial. It is a hot interdisciplinary among electromagnetic, applied physics and material science, contributing to thousands of papers a year. The main idea is to use nanostructure (in the most of time, the "nanostructure" seems big in human eye but smaller than the length electromagnetic wave) to go beyond conventional materials. To learn more about metamaterial, check wiki [here](https://en.wikipedia.org/wiki/Metamaterial) or [my work](https://doi.org/10.1364/OE.27.030332).
+My current research interests are wireless-optical network with sensing capability. I have different projects in optical network digital twin, network traffic optimization for data center exchange, fiber sensing, and quantum computing network. My past projects also includes metasurface and autonomous driving safety control. 
 
 # Education
+Ph.D. candidate in Electrical and Computer Engineering, **Duke University**, 2021-now
 
 M.S. in Electrical & Computer Engineering, **Carnegie Mellon University**, 2020
 
 B.S. in Information Science, **Zhejiang University**, 2019 
 
 # News
+
+
+03/2025: two papers are accepted by OFC'25
+01/2025: invited paper for a special issue of OFC'24 on JOCN
+10/2024: two papers are accepted by ECOC'24
+03/2024: four papers are accepted by OFC'25
+
+
 
 12/15/2020: graduated from CMU.
 
@@ -29,3 +36,4 @@ B.S. in Information Science, **Zhejiang University**, 2019
 Here is some interesting friends' webs, feel free to check:
 
 - [Wuwen Wang](https://wuwenw.github.io/)
+
