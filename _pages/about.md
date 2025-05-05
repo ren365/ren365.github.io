@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zehao Wang, a fourth-year Ph.D. student at Electrical and Computer Engineering department in Duke University. I received my master’s degree in Electrical & Computer Engineering from Carnegie Mellon University and my bachelor’s degree in Information Engineering from Zhejiang University, China. I received several top-scored papers in OFC, one best paper in ECOC'24, and was selected as Corning outstanding student finallist in OFC'24. I collaborate with [Duke Quantum Center](link), [ConnectCentre](link), [NEC Lab America](link), and [NTT](link).
+I'm Zehao Wang, a fourth-year Ph.D. student at Electrical and Computer Engineering department in Duke University. I received my master’s degree in Electrical & Computer Engineering from Carnegie Mellon University and my bachelor’s degree in Information Engineering from Zhejiang University, China. I received several top-scored papers in OFC, one best paper in ECOC'24, and was selected as Corning outstanding student finallist in OFC'24. I collaborate with [Duke Quantum Center](https://quantum.duke.edu/), [ConnectCentre](https://connectcentre.ie/), [NEC Lab America](https://www.nec-labs.com/), and [NTT](https://www.rd.ntt/e/mirai/).
 
 My current research interests are wireless-optical network with sensing capability. I have different projects in optical network digital twin, network traffic optimization for data center exchange, fiber sensing, and quantum computing network. My past projects also includes metasurface and autonomous driving safety control. 
 
