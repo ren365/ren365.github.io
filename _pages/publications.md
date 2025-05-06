@@ -16,15 +16,15 @@ g { color: Green }
 
 ## 2025
 
-- **Z. Wang**, A. Raj, Y.-K. Huang, E. Ip, G. Borraccini, A. D’Amico, S. Han, Z. Qi, G. Zussman, K. Asahi, H. Kageshima, Y. Aono, T. Wang, M. Ruffini, D. Kilper, and T. Chen, “Toward intelligent and efficient optical networks: performance modeling, co-existence, and field trials,” in Proc. IEEE OptoElectronics and Communications Conference (**OECC’25**), 2025. <r>***Invited Paper to OECC'25***</r>
+- **Z. Wang**, A. Raj, Y.-K. Huang, E. Ip, G. Borraccini, A. D’Amico, S. Han, Z. Qi, G. Zussman, K. Asahi, H. Kageshima, Y. Aono, T. Wang, M. Ruffini, D. Kilper, and T. Chen, “Toward intelligent and efficient optical networks: performance modeling, co-existence, and field trials,” in Proc. IEEE OptoElectronics and Communications Conference (**OECC’25**), 2025. ***<r>Invited Paper to OECC'25</r>***
 
 - **Z. Wang**, G. Borraccini, A. D’Amico, Y.-K. Huang, T. Wang, D. Kilper, K. Asahi, and T. Chen, “Multi-span OSNR and GSNR prediction using cascaded learning,” in Proc. IEEE/Optica Optical Fiber Communication Conference (**OFC’25**), 2025.
 
-- **Z. Wang**, A. Raj, G. Borraccini, S. Han, Y.-K. Huang, T. Wang, M. Ruffini, D. Kilper, and T. Chen, “Scalable machine learning models for optical transmission system management,” in Proc. IEEE/Optica Optical Fiber Communication Conference (**OFC’25**), 2025. <r>***Invited Paper to OFC'25***</r>
+- **Z. Wang**, A. Raj, G. Borraccini, S. Han, Y.-K. Huang, T. Wang, M. Ruffini, D. Kilper, and T. Chen, “Scalable machine learning models for optical transmission system management,” in Proc. IEEE/Optica Optical Fiber Communication Conference (**OFC’25**), 2025. ***<r>Invited Paper to OFC'25</r>***
 
 - S. Xie, R. Raj, B. Briantcev, **Z. Wang**, T. Chen, and D. Kilper, “WDM system stimulated Raman scattering spectrum and tilt prediction using CNN-based transfer learning,” in Proc. IEEE International Conference on Optical Network Design and Modelling (**ONDM’25**), 2025.
 
-- **Z. Wang**, Y.-K. Huang, S. Han, D. Kilper, and T. Chen, “Multi-span optical power spectrum prediction using cascaded learning with one-shot end-to-end measurement,” IEEE/Optica Journal of Optical Communications and Networking (**JOCN**), vol. 17, no. 1, pp. A23-33, 2025. <r>***Invited Paper to the Special Issue on Top-Scored Papers from IEEE/Optica OFC’24***</r>
+- **Z. Wang**, Y.-K. Huang, S. Han, D. Kilper, and T. Chen, “Multi-span optical power spectrum prediction using cascaded learning with one-shot end-to-end measurement,” IEEE/Optica Journal of Optical Communications and Networking (**JOCN**), vol. 17, no. 1, pp. A23-33, 2025. ***<r>Invited Paper to the Special Issue on Top-Scored Papers from IEEE/Optica OFC’24</r>***
 
 ## 2024
 
