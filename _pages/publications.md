@@ -42,7 +42,7 @@ g { color: Green }
 
 - E. Ip, Y.-K. Huang, G. Borraccini, T. Mano, T. Matsumura, H. Nishizawa, A. D’Amico, V. Curri, D. Kilper, **Z. Wang**, G. Zussman, T. Chen, and K. Asahi, “Inline fiber type identification using in-service Brillouin optical time domain analysis,” in Proc. IEEE/Optica Optical Fiber Communication Conference (**OFC’24**), 2024.
 
-- H. Nishizawa, T. Mano, T. Ferreira de Lima, Y.-K. Huang, **Z. Wang**, W. Ishida, M. Kawashima, E. Ip, A. D’Amico, S. Okamoto, T. Inoue, K. Anazawa, V. Curri, G. Zussman, D. Kilper, T. Chen, T. Wang, K. Asahi, and K. Takasugi, “Fast WDM provisioning with minimal probing: the first field experiments for DC exchanges,” IEEE/Optica Journal of Optical Communications and Networking (JOCN), Vol. 16, Issue 2, pp. 233-242, 2024.
+- H. Nishizawa, T. Mano, T. Ferreira de Lima, Y.-K. Huang, **Z. Wang**, W. Ishida, M. Kawashima, E. Ip, A. D’Amico, S. Okamoto, T. Inoue, K. Anazawa, V. Curri, G. Zussman, D. Kilper, T. Chen, T. Wang, K. Asahi, and K. Takasugi, “Fast WDM provisioning with minimal probing: the first field experiments for DC exchanges,” IEEE/Optica Journal of Optical Communications and Networking (**JOCN**), Vol. 16, Issue 2, pp. 233-242, 2024.
 
 
 ## 2023
@@ -51,7 +51,7 @@ g { color: Green }
 
 - **Z. Wang**, Y. -K. Huang, E. Ip, Z. Qi, G. Zussman, D. Kilper, K. Asahi, H. Kageshima, Y. Aono, and T. Chen, “Field trial of coexistence and simultaneous switching of real-time fiber sensing and coherent 400 GbE in a dense urban environment,” IEEE/Optica Journal of Lightwave Technology (**JLT**), pp. 1-9, 2023. *<r>Invited Paper to the Special Issue on Top-Scored Papers from IEEE/Optica OFC’23</r>*
 
-- T. Mano, T. Ferreira de Lima, Y.-K. Huang, **Z. Wang**, W. Ishida, E. Ip, A. D’Amico, S. Okamoto, T. Inoue, H. Nishizawa, V. Curri, G. Zussman, D. Kilper, T. Chen, T. Wang, K. Asahi, and K. Takasugi, “First field demonstration of automatic WDM optical path provisioning over alien access links for data center exchange,” in Proc. European Conference on Optical Communication (**ECOC’23**), Paper Tu.B.5.2, 2023. *<r>Best Paper</r>*
+- T. Mano, T. Ferreira de Lima, Y.-K. Huang, **Z. Wang**, W. Ishida, E. Ip, A. D’Amico, S. Okamoto, T. Inoue, H. Nishizawa, V. Curri, G. Zussman, D. Kilper, T. Chen, T. Wang, K. Asahi, and K. Takasugi, “First field demonstration of automatic WDM optical path provisioning over alien access links for data center exchange,” in Proc. European Conference on Optical Communication (**ECOC’23**), Paper Tu.B.5.2, 2023. *<r>Highest Scored Paper</r>*
 
 - A. Raj, **Z. Wang**, F. Slyne, T. Chen, D. Kilper, and M. Ruffini, “Self-normalizing neural network, enabling one shot transfer learning for modeling EDFA wavelength dependent gain,” in Proc. European Conference on Optical Communication (**ECOC’23**), Paper Tu.C.5.6, 2023.
 
