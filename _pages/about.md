@@ -27,4 +27,4 @@ B.S. in Information Science, **Zhejiang University**, 2019
 03/2024: four papers are accepted by OFC'24, give one oral presentation, and awarded Corning Outstanding Student Paper Finalist\
 10/2023: three papers are accepted by ECOC'23, one of them is selected as highest scored paper \
 03/2023: two papers are accepted by OFC'23, give one poster presentation\
-10/2022: one paper is accepted by ECOC'24, give one oral presentation\
+10/2022: one paper is accepted by ECOC'24, give one oral presentation
