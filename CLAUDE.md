@@ -15,6 +15,9 @@ bundle install
 # Start local development server with live reload (localhost:4000)
 bundle exec jekyll liveserve
 
+# Alternative: use dev config (disables analytics, uses localhost URL)
+bundle exec jekyll serve --config _config.yml,_config.dev.yml
+
 # Build for production
 bundle exec jekyll build
 
@@ -50,10 +53,10 @@ Each content file uses YAML front matter for metadata (layout, title, date, perm
 - `files/` - Downloadable files (PDFs, documents)
 
 ### Content Generation Tools
-The `markdown_generator/` directory contains Python scripts and Jupyter notebooks to convert TSV data into markdown files:
-- `publications.tsv` → individual publication markdown files
-- `talks.tsv` → individual talk markdown files
-- `PubsFromBib.ipynb` - Import from BibTeX
+The `markdown_generator/` directory contains Python scripts (`.py`) and Jupyter notebooks (`.ipynb`) to convert TSV data into markdown files:
+- `publications.py` / `publications.ipynb` - Convert `publications.tsv` to markdown files
+- `talks.py` / `talks.ipynb` - Convert `talks.tsv` to markdown files
+- `pubsFromBib.py` / `PubsFromBib.ipynb` - Import publications from BibTeX format
 
 ## Configuration
 

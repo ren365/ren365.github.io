@@ -14,6 +14,18 @@ g { color: Green }
 
   The publications are also listed on my [Google Scholar](https://scholar.google.com/citations?user=de1VvNkAAAAJ).
 
+## 2026
+
+- **Z. Wang**, M. Han, W. Cheng, Y.-K. Huang, P. Ji, D. Wu, M. Safari, F. Holtorf, K. AlQubaisi, N. M. Linke, D. Zhuo, Y. Chen, T. Wang, D. Englund, and T. Chen, “Agentic AI for Scalable and Robust Optical Systems Control,” *arXiv preprint arXiv:2602.20144*, 2026.
+
+- **Z. Wang**, D. Wu, M. Han, M. A. Zalewski, A. L. Ferrari, Y. Xie, N. M. Linke, and T. Chen, “Coexistence Field Trial of 1092 nm Quantum Link, Coherent 400 GbE, and 5G Services,” in Proc. IEEE/Optica Optical Fiber Communications Conference (**OFC’26**), 2026.
+
+- J. Eppink, P. Malin, A. Mathews, H. Ontiveros, A. Stroujkova, S. Valenzuela, T. Fleure, W. McLain, S. Paschall, C. Sicking, A. Bonneville, T. Chen, and **Z. Wang**, “Extending Permeable Fracture Imaging at Newberry to Depth: Added Receiver-Coverage Area and Seismic Velocity Control,” in *51st Stanford Geothermal Workshop*, 2026.
+
+- M. Safari, F. Holtorf, F. Schaefer, S. Mynampati, P. Huembeli, M. Han, **Z. Wang**, K. P. Radican, R. Chaudhary, L. van der Vegt, A. H. Ghadimi, T. Chen, J. Taylor, and D. Englund, “Agentic Tools for Automated Photonic Device Characterization and Measurement,” in Proc. IEEE/Optica Conference on Lasers and Electro-Optics (**CLEO’26**), 2026.
+
+- **Z. Wang**, A. D’Amico, G. Borraccini, A. Raj, Y.-K. Huang, S. Han, T. Wang, M. Ruffini, D. Kilper, and T. Chen, “Scalable ML models and cascaded learning for efficient multi-span OSNR and GSNR prediction,” IEEE/Optica Journal of Optical Communications and Networking (**JOCN**), vol. 18, no. 1, pp. A88–99, 2026. *<r>Invited Paper to the JOCN Special Issue on Invited/Top-Rated Papers from IEEE/Optica OFC’25</r>*
+
 ## 2025
 
 - **Z. Wang**, A. Raj, Y.-K. Huang, E. Ip, G. Borraccini, A. D’Amico, S. Han, Z. Qi, G. Zussman, K. Asahi, H. Kageshima, Y. Aono, T. Wang, M. Ruffini, D. Kilper, and T. Chen, “Toward intelligent and efficient optical networks: performance modeling, co-existence, and field trials,” in Proc. IEEE OptoElectronics and Communications Conference (**OECC’25**), 2025. *<r>Invited Paper to OECC'25</r>*
@@ -21,6 +33,10 @@ g { color: Green }
 - **Z. Wang**, G. Borraccini, A. D’Amico, Y.-K. Huang, T. Wang, D. Kilper, K. Asahi, and T. Chen, “Multi-span OSNR and GSNR prediction using cascaded learning,” in Proc. IEEE/Optica Optical Fiber Communication Conference (**OFC’25**), 2025.
 
 - **Z. Wang**, A. Raj, G. Borraccini, S. Han, Y.-K. Huang, T. Wang, M. Ruffini, D. Kilper, and T. Chen, “Scalable machine learning models for optical transmission system management,” in Proc. IEEE/Optica Optical Fiber Communication Conference (**OFC’25**), 2025. *<r>Invited Paper to OFC'25</r>*
+
+- T. Sasai, G. Borraccini, Y.-K. Huang, H. Nishizawa, **Z. Wang**, T. Chen, Y. Sone, M. Takahashi, T. Matsumura, M. Nakamura, E. Yamazaki, K. Takasugi, T. Wang, and Y. Kisaka, “Optical link tomography: first field trial and 4D extension,” IEEE/OSA Journal of Lightwave Technology (**JLT**), 2025.
+
+- A. Raj, **Z. Wang**, T. Chen, D. Kilper, and M. Ruffini, “Generalized few-shot transfer learning architecture for modeling the EDFA gain spectrum,” IEEE/Optica Journal of Optical Communications and Networking (**JOCN**), vol. 17, no. 9, pp. D106–D117, 2025.
 
 - S. Xie, R. Raj, B. Briantcev, **Z. Wang**, T. Chen, and D. Kilper, “WDM system stimulated Raman scattering spectrum and tilt prediction using CNN-based transfer learning,” in Proc. IEEE International Conference on Optical Network Design and Modelling (**ONDM’25**), 2025.
 
